@@ -168,3 +168,52 @@
     font-size: 20px;
     font-weight: normal;
 }
+.description-star
+{
+    display: block;
+}
+.review-description
+{
+    width: 366.67px;
+    height: 243px;
+    padding: 24px 24px;
+    gap: 24px;
+}
+.description-comnt
+{
+    width: 266.67px;
+    height: 81px;
+}
+.developer-review
+{
+    display: flex;
+}
+.review-section
+{
+    width: 266.67px;
+    height: 46px;
+    display: flex;
+
+    
+}
+.review-tittle
+{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+}
+.review-container
+{
+    height: 385px;
+    width: 1140px;
+    margin: 50px 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.form-container
+{
+  border: none;
+  outline: none;
+  box-shadow: none; 
+}

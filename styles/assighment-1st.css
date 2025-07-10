@@ -1,0 +1,170 @@
+/* font-Name */
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* header
+{
+    max-width: 1440px;
+    height: 698px;
+    /* align-items: center; */
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.tittle-class 
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    max-height: 151px;
+    margin-top: 0px;
+    align-items: center;
+    
+} 
+.banner-tittle
+{
+    background-image: url(/assighment-1st/Assets/Hero-bg.png);
+    
+}
+
+.banner-subtittle
+{
+    margin-top: 158px;
+    text-align: center;
+    max-width: 905px;
+    height: 237px;
+    gap: 37px;
+    margin: 158px 200px;
+
+}
+.header-p
+{
+    font-weight: bold;
+    font-size: 65px;
+    height: 152px;
+    text-align: center;
+    color: #252432;
+    
+}
+.secondary-bg
+{
+    background-color: #FFFFFF;
+}
+.logo-cl
+{
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: bold;
+
+}
+.btn-primary
+{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+    height: 48px;
+    width: 132px;
+    gap: 10px;
+    padding: 12px 36px;
+    border: none;
+}
+.btn-primary2
+{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    width: 174px;
+    height: 48px;
+    gap: 16px;
+    margin-top: 37px;
+    border: none; 
+}
+.btn-3rd
+{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 12px  36px;
+    font-size: 16px;
+    border: none;
+}
+
+
+.action-tittle
+{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.ac-tittle-description
+{
+    color:rgba(37,36,50,50) ;
+    font-size: 24px;
+    width: 517px;
+    
+}
+.wc-mini-png{
+    border-radius: 48px;
+    max-width: 403px;
+    height: 328px;
+}
+.action-container
+{
+    display: flex;
+    gap: auto;
+    width: 1140px;
+    height: 328px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 141px;
+    margin-top: 300px;
+}
+
+.productive-container
+{
+
+    max-width: 1140px;
+    text-align: center;
+    gap: 10px;
+    background-color: #4d47ff4a;
+    margin: 306px 200px;
+    border-radius: 24px;
+    box-shadow: 10px 10px 30px ;
+
+}
+.sub-container
+{
+    padding: 50px 80px;
+}
+.sub-tittle
+{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+.p-description
+{
+    display: flex;
+    justify-content: space-around;
+    gap: 158px;
+}
+.p-d-tittle
+{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    
+}
+.d-content
+{
+    font-size: 20px;
+    font-weight: normal;
+}

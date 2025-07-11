@@ -194,6 +194,16 @@
     height: 81px;
     color: rgba(0, 0, 0, 0.504);
 }
+.description-comnt2
+{
+     color: #252432;
+     font-size: 20px;
+     font-weight: 700;
+}
+/* .body-color
+{
+    background-color:#c2c1e260;
+} */
 .developer-review
 {
     display: flex;
@@ -203,7 +213,7 @@
     width: 266.67px;
     height: 46px;
     display: flex;
-    /* text-align: center; */
+    
 
     
 }
